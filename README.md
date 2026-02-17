@@ -1,7 +1,9 @@
 Project Overview
+
 This project presents an automated deep learning framework for COVID-19 lung lesion segmentation from volumetric chest CT scans. The model is built using DeepLabV3 with a ResNet50 backbone and adapted for single-channel CT input. The objective is to accurately segment infection regions to enable quantitative disease assessment and support AI-assisted radiological analysis.
 
 Dataset
+
 Source: Radiopaedia COVID-19 Lung CT Segmentation Dataset https://medicalsegmentation.com/covid19/
 Format: NIfTI (.nii) volumetric CT scans
 
