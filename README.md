@@ -4,7 +4,9 @@ This project presents an automated deep learning framework for COVID-19 lung les
 
 Dataset
 
-Source: Radiopaedia COVID-19 Lung CT Segmentation Dataset https://medicalsegmentation.com/covid19/
+Source: Radiopaedia COVID-19 Lung CT Segmentation Dataset 
+
+https://medicalsegmentation.com/covid19/
 
 Format: NIfTI (.nii) volumetric CT scans
 
